@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cource.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/cource.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cource.jsTest.iml" filepath="$PROJECT_DIR$/.idea/modules/cource.jsTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cource.jvmTest.iml" filepath="$PROJECT_DIR$/.idea/modules/cource.jvmTest.iml" />
+    </modules>
+  </component>
+</project>
